@@ -1,19 +1,9 @@
-# Projeto de Samuel Marques da Silva
+## 🤖 Declaração de Uso de Inteligência Artificial
 
-**Nome:** Samuel Marques da Silva  
-**Matrícula:** [535]
-## Uso de IA
+Em cumprimento aos critérios de avaliação do projeto, o grupo declara total transparência quanto ao uso de Inteligência Artificial durante o desenvolvimento desta solução.
 
-Foi utilizada IA como apoio na revisão do projeto, para verificar se o código estava de acordo com as instruções e com o diagrama UML.
-
-Modelo utilizado: ChatGPT (GPT-5.4 Thinking)
-
-Prompts utilizados:
-- "Analise esse documento"
-- "Analise o meu código e veja se está de acordo com as instruções e com a UML"
-- "Me diga o que preciso corrigir"
-
-Resultado: satisfatório, pois ajudou na conferência dos requisitos e na realização de ajustes no código.
-
-## Observação
-Parte do código foi aproveitada do projeto que eu havia desenvolvido no semestre passado, com as alterações necessárias para atender aos requisitos desta atividade.
+* **Ferramenta Utilizada:** Google Gemini
+* **Como a ferramenta foi utilizada:**
+  * **Arquitetura e Simplificação:** A IA atuou como um tutor para auxiliar na estruturação e simplificação do escopo do projeto, garantindo que a aplicação focasse estritamente nos conceitos exigidos (Interfaces, Classes Abstratas, Herança, Polimorfismo e Threads).
+  * **Resolução de Erros:** Auxílio pontual para interpretar avisos e erros de compilação na IDE durante a fase de integração das classes.
+  * **Documentação Visual:** Geração da sintaxe estrutural do código em formato *Mermaid* para a criação automática do diagrama UML final.
